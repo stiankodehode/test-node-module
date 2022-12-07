@@ -1,22 +1,22 @@
 {
-  "name": "test-module-stiant2",
-  "version": "1.0.2",
-  "description": "test module",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/stiankodehode/test-node-module.git"
-  },
-  "keywords": [
-    "testmodule"
-  ],
-  "author": "stiant",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/stiankodehode/test-node-module/issues"
-  },
-  "homepage": "https://github.com/stiankodehode/test-node-module#readme"
+    "name": "test-module-stiant2",
+    "version": "1.0.4",
+    "description": "test module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/stiankodehode/test-node-module.git"
+    },
+    "keywords": [
+        "testmodule"
+    ],
+    "author": "stiant",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/stiankodehode/test-node-module/issues"
+    },
+    "homepage": "https://github.com/stiankodehode/test-node-module#readme"
 }
