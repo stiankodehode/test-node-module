@@ -1,11 +1,19 @@
 {
-  "name": "test-module",
+  "name": "test-node-module",
   "version": "1.0.0",
   "description": "test module",
   "main": "index.js",
   "scripts": {
-    "test": "console.log(\"test\")"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stiankodehode/test-node-module.git"
   },
   "author": "stiant",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stiankodehode/test-node-module/issues"
+  },
+  "homepage": "https://github.com/stiankodehode/test-node-module#readme"
 }
